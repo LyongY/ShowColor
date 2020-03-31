@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#3f3f3f</color> <!--普通文字-->
+    <color name="textDetail">#5a6b72</color> <!--文件列表通道设备细节，设备列表设备名等标题，HintTextColor-->
+    <color name="textDisable">#aaaaaa</color> <!--设备掉线-->
+    <color name="textNavigation">#ffffff</color> <!--导航栏文字-->
+    <color name="textToday">#ff0000</color> <!--日历当天文字颜色-->
+    <color name="textNotice">#ff0000</color> <!--通知未点击-->
+    <color name="textColorInColorView">#ffffff</color> <!--列表选中通道，码流选中文字-->
+    <color name="textConnectOnline">#00ff00</color> <!--设备列表下连接成功文字颜色-->
+    <color name="textConnectOffline">#ff0000</color> <!--设备列表下连接失败文字颜色-->
+    <color name="textFunctionDetail">#16B2E9</color> <!--硬件升级详情文字颜色，添加组文字颜色-->
+
+    <color name="backgroundBasic">#f0f0f0</color> <!--基本背景-->
+    <color name="backgroundList">#f5f5f5</color> <!--列表背景-->
+    <color name="backgroundToolbar">#d6d6d6</color> <!--工具栏-->
+    <color name="backgroundMark">#ff0000</color> <!--日历下的点-->
+    <color name="backgroundNotice">#ff0000</color> <!--通知数的背景色-->
+    <color name="backgroundListHeader1">#efefef</color> <!--列表头部1-->
+    <color name="backgroundListHeader2">#f2f2f2</color> <!--列表头部2-->
+    <color name="backgroundPlaceholder">#A6A7AE</color> <!--占位图的背景颜色-->
+    <color name="backgroundDeleteBar">#16B2E9</color> <!--DeleteBar 没选中的颜色-->
+    <color name="backgroundDeleteBarOn">#FF4E50</color> <!--DeleteBar 选中的颜色-->
+
+    <color name="timebarBackground">#ffffff</color> <!--时间条背景色-->
+    <color name="timebarSpliteNormal">#222222</color> <!--刻度-->
+    <color name="timebarSpliteCenterHorizontal">#ff8000</color> <!--中线-->
+    <color name="timebarOtherRecord">#ff7800</color> <!--OtherRecord-->
+    <color name="timebarNormalRecord">#00ff00</color> <!--NormalRecord-->
+    <color name="timebarManualRecord">#00ff00</color> <!--ManualRecord-->
+    <color name="timebarAlarmAssembleRecord">#ff7800</color> <!--AlarmAssembleRecord-->
+    <color name="timebarAlarmRecord">#0000ff</color> <!--AlarmRecord-->
+    <color name="timebarMotionRecord">#ffff00</color> <!--MotionRecord-->
+    <color name="timebarIORecord">#ff0000</color> <!--IORecord-->
+    <color name="timebarIntellRecord">#00ffff</color> <!--IntellRecord-->
+    <color name="timebarPIRRecord">#800080</color> <!--PIRRecord-->
+
+    <color name="themeStart">#10a1c7</color> <!--导航栏 渐变色按钮-->
+    <color name="themeEnd">#2fd189</color> <!--导航栏 渐变色按钮-->
+    <color name="themeItemStart">#10a1c7</color> <!--选中项背景色-->
+    <color name="themeItemEnd">#2fd189</color> <!--选中项背景色-->
+    <color name="themeSwitch">#2bb39f</color> <!--Switch按钮颜色 卡片机connect文字颜色-->
+    <color name="themeProgressBar">#16b2e9</color> <!--本地回放进度条-->
+    <color name="themeButtonNormal">#ffffff</color> <!--非渐变色按钮颜色-->
+    <color name="themeButtonSelect">#2bb39f</color> <!--非渐变色按钮点击的颜色-->
+    <color name="themeButtonDisable">#d8d7dc</color> <!--非渐变色按钮点击的颜色-->
+
+    <color name="spliteNormal">#777777</color> <!--窗口框颜色，item分割线-->
+    <color name="spliteSelected">#16b2e9</color> <!--窗口选中颜色-->
+</resources>
